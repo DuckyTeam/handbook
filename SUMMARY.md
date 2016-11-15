@@ -1,4 +1,5 @@
 # Summary
 
-* Governance
+* [Introduction](README.md)
+* [Governance](governance.md)
 

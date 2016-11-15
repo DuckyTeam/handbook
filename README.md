@@ -1,2 +1,2 @@
 # handbook
-The Ducky handbook
+The Ducky handbook rocks!

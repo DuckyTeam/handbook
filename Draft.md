@@ -163,7 +163,9 @@ Potensielle oppgaver for et styre i fremtiden vil kunne være:
 -	Ved interne konflikter som medarbeidere ikke greier å løse selv, eller ved brudd på denne avtalen kan styret bryte inn og i spesielle tilfeller gjennomføre tiltak slik som oppsigelser.
 -	Kan initiere støttetiltak for å lette medarbeidernes daglige drift av oppgaver om ønskelig fra medarbeidere.
 
-#### 8	En ideel bedrift. Ducky er registrert som et ideelt aksjeselskap. Det betyr at det har rettigheter som et aksjeselskap men vedtektene minner mest om en stiftelse. Viktige paragrafer fra vedtektene følger:
+#### 8	En ideel bedrift
+
+Ducky er registrert som et ideelt aksjeselskap. Det betyr at det har rettigheter som et aksjeselskap men vedtektene minner mest om en stiftelse. Viktige paragrafer fra vedtektene følger:
 ##### § 6.0 Overskudd og utbytte
 Alt overskudd som genereres i Selskapet skal fremme videre utvikling og realisering av Selskapets målsetninger og vil forvaltes av Selskapet innenfor dets vedtatte formål.
 Da selskapet ikke har erverv som formål kan det ikke deles ut utbytte.

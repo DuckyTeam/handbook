@@ -3,6 +3,42 @@
 
 > «En veiledning i å vite hva du bør gjøre når ingen forteller deg hva du må gjøre.»
 
+#### Innhold
+
+1 [Om Ducky](#Om-Ducky)  
+&nbsp;&nbsp;&nbsp;1.1 [Vårt Formål](Vårt-Formål)  
+&nbsp;&nbsp;&nbsp;1.2 [Hva jobber vi for?](Hva-jobber-vi-for?)  
+&nbsp;&nbsp;&nbsp;1.3 [Hvordan skal Ducky som organisasjon gjøre dette?](Hvordan-skal-Ducky-som-organisasjon-gjøre-dette?)  
+2 [Viktig for å jobbe i Ducky](Viktig-for-å-jobbe-i-Ducky)  
+&nbsp;&nbsp;&nbsp;2.1 [Prinsipp 1 - Vi ledes av formålet](Prinsipp-1)  
+&nbsp;&nbsp;&nbsp;2.2 [Prinsipp 2 - Hele mennesket på jobb](Prinsipp-2)  
+&nbsp;&nbsp;&nbsp;2.3 [Prinsipp 3 - Medbestemmelse](Prinsipp-3)  
+&nbsp;&nbsp;&nbsp;2.4 [Ansvar for medarbeidere?](Ansvar-for-medarbeidere?)  
+&nbsp;&nbsp;&nbsp;2.5	[Type stillinger i Ducky](Type-stillinger-i-Ducky)  
+3 [Hvordan jobber man i Ducky?](Hvordan-jobber-man-i-Ducky?)  
+&nbsp;&nbsp;&nbsp;3.1 [Medarbeiderne](Medarbeiderne)  
+&nbsp;&nbsp;&nbsp;3.2 [Hvordan finner jeg ut hvilket prosjekt som trenger hjelp?](Hvordan-finner-jeg-ut-hvilket)  
+&nbsp;&nbsp;&nbsp;3.3 [Hva skal man ikke gjøre](Hva-skal-man-ikke-gjøre)  
+&nbsp;&nbsp;&nbsp;3.4 [Struktur og roller](Struktur-og-roller)  
+&nbsp;&nbsp;&nbsp;3.5 [Informasjonsflyt](Informasjonsflyt)  
+&nbsp;&nbsp;&nbsp;3.6 [Opplæring/utvikling](Opplæring/utvikling)  
+&nbsp;&nbsp;&nbsp;3.7 [Personlig utvikling / Medarbeidersamtale](Personlig utvikling-/-Medarbeidersamtale)  
+4 [Kjekt å vite](Kjekt-å-vite)  
+&nbsp;&nbsp;&nbsp;4.1 [Arbeidstid](Arbeidstid)  
+&nbsp;&nbsp;&nbsp;4.2 [Arbeidssted](Arbeidssted)  
+&nbsp;&nbsp;&nbsp;4.3 [Stillingsprosent](Stillingsprosent)  
+&nbsp;&nbsp;&nbsp;4.4 [Lønn og fordeler](Lønn-og-fordeler)  
+&nbsp;&nbsp;&nbsp;4.5 [Utsatt utbetaling og risikotillegg](Utsatt utbetaling-og-risikotillegg)  
+&nbsp;&nbsp;&nbsp;4.6 [Ferie](Ferie)  
+&nbsp;&nbsp;&nbsp;4.7 [Pensjon](Pensjon)  
+&nbsp;&nbsp;&nbsp;4.8 [Forsikring](Forsikring)  
+5 [Rekruttering](Rekruttering)  
+6 [Konflikthåndtering](Konflikthåndtering)  
+7 [Organisasjonsstruktur](Organisasjonsstruktur)  
+&nbsp;&nbsp;&nbsp;7.1 [«Advisory Board»](Advisory-Board)  
+&nbsp;&nbsp;&nbsp;7.2 [Styret og generalforsamling](Styret-og-generalforsamling)  
+8 [En ideel bedrift](En-ideel-bedrift)  
+
 #### Forord:
 For å skape løsninger som påvirker verden positivt må vi først lage en arbeidsplass som fostrer godhet. Ducky skal være en arbeidsplass der du kan bidra med hele ditt vesen og har det morsomt underveis. Målene til Ducky er viktige, men det viktigste er idéene, kreativiteten og engasjementet til hver enkelt som jobber for å nå disse målene. Duckys medarbeiderfilosofi bygger på et grunnleggende prinsipp om at mennesker vil bidra om de har muligheten til dette, og at vi alle har en lik verdi. Det viktigste hos Ducky er ikke å styrke eget ego og makt, men å bidra så godt vi kan til å gjøre våre kollegaer best mulig og dermed også styrke organisasjonen og samholdet. Ducky fungerer som et økosystem der enkeltindividet er åpent for nye impulser og muligheter, og dermed sikrer en dynamisk vekst for Ducky basert på valg som føles riktig. I et økosystem vil noen retninger mislykkes, mens andre vil spre seg raskt. I Ducky ansees det derfor som positivt å ta sats selv om det ofte fører til mislykkede forsøk.
 

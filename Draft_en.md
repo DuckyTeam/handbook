@@ -25,3 +25,21 @@ There are no official leaders at Ducky, and we are basically free to make decisi
 
 ##### 2.2	2nd principle - The whole human person present at work
 At Ducky we want to avoid people wearing a mask at work, for example by pretending to be competent in every situation, acting invulnerable or never making mistakes. At Ducky we never do things that contradict our inner sence of right and wrong and we are happy to share both positive and negative experiences with our colleagues. If you wish to develop as a person you have the possibility to take classes , get coaching, reflect upon yourself or through other means get to know yourself and your collegaues better. We must each decide what is important for us and at Ducky. In the case of an extensive or expensive course you should consult with your collegaues and make an argument regarding why and how the course will serve the organization and it's purpose.
+
+##### 2.3	3rd principle - Codetermination
+All coworkers have an equal right and duty in deciding how Ducky shall be governed. In normal day-to-day decisions there is no demand for concensus, but in major decisions colleagues must be consulted.
+Important decisions can be taken in one of two ways:
+1. In a meeting dedicated to decisions, which may be done the following way:
+a. A coworker propose a project, things they want to work on, choice of strategy, roles they wish to take on or the like.
+b. All participants as a group will then try to optimize the proposal.
+c. All participants are then given the oppurtunity to raise objections.
+d. Unless no valid arguments against the proposal in made, ie why this is not good for Ducky, the proposal can be implemnted.
+2.	Inquire with experts and all affected employees.
+If we wish to implement a proposal we can inquire experts in the field it regards, as well as all emplyees that are affected by the proposal. We can then seek advice how best to implement it. If those emplyees that are affacted deems the proposal to be good it can be implemented.
+This way of implementing decisions ensures, among other things, the following:
+* That many people are educated.
+* That coworkers feel valued and involved.
+* That good decisions since decisions are made by those that will live with the consequenses.
+* That the decision is owned by the coworkers.
+* That we have fun in the process.
+* The possibility for everyone to initiate important processes, for example if some collegaues see new oppurtunities that are according to our goals, they can pursue these. As another example, should they want to set up an office elsewhere they can do this after consulting with their colleagues. In this way we achieve dynamic growth without the need of organization by a leader.

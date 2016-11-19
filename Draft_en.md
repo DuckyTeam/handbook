@@ -37,9 +37,9 @@ d. Unless no valid arguments against the proposal in made, ie why this is not go
 2.	Inquire with experts and all affected employees.
 If we wish to implement a proposal we can inquire experts in the field it regards, as well as all emplyees that are affected by the proposal. We can then seek advice how best to implement it. If those emplyees that are affacted deems the proposal to be good it can be implemented.
 This way of implementing decisions ensures, among other things, the following:
-* That many people are educated.
-* That coworkers feel valued and involved.
-* That good decisions since decisions are made by those that will live with the consequenses.
-* That the decision is owned by the coworkers.
-* That we have fun in the process.
-* The possibility for everyone to initiate important processes, for example if some collegaues see new oppurtunities that are according to our goals, they can pursue these. As another example, should they want to set up an office elsewhere they can do this after consulting with their colleagues. In this way we achieve dynamic growth without the need of organization by a leader.
+  * That many people are educated.
+  * That coworkers feel valued and involved.
+  * That good decisions since decisions are made by those that will live with the consequenses.
+  * That the decision is owned by the coworkers.
+  * That we have fun in the process.
+  * The possibility for everyone to initiate important processes, for example if some collegaues see new oppurtunities that are according to our goals, they can pursue these. As another example, should they want to set up an office elsewhere they can do this after consulting with their colleagues. In this way we achieve dynamic growth without the need of organization by a leader.

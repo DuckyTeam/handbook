@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "editlink"
+        "editlink",
+        "anchorjs"
     ],
     "pluginsConfig": {
         "editlink": {

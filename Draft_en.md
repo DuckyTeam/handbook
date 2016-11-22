@@ -43,3 +43,7 @@ This way of implementing decisions ensures, among other things, the following:
 * That the decision is owned by the coworkers.
 * That we have fun in the process.
 * The possibility for everyone to initiate important processes, for example if some collegaues see new oppurtunities that are according to our goals, they can pursue these. As another example, should they want to set up an office elsewhere they can do this after consulting with their colleagues. In this way we achieve dynamic growth without the need of organization by a leader.
+
+##### 2.4	Responsibility for employees?
+
+The employees shall ensure that Ducky has financing for further product development and business development. All employees share the responsibility for running Ducky within existing financial constraints and doing this according to the values Ducky is founded on. All employees have a personal responsibility to promote social activity at work and bring his or her whole personality wo the workplace. You therefore have a responsibility to share both bad and good sides of yourself and to try to understand your colleagues. In order to succeed in this you should first seek to understand yourself, explore your own values and why you react as you do. This should be done through dialog with coworkers.

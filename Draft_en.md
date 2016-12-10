@@ -48,6 +48,9 @@ This way of implementing decisions ensures, among other things, the following:
 
 The employees shall ensure that Ducky has financing for further product development and business development. All employees share the responsibility for running Ducky within existing financial constraints and doing this according to the values Ducky is founded on. All employees have a personal responsibility to promote social activity at work and bring his or her whole personality to the workplace. You therefore have a responsibility to share both bad and good sides of yourself and to try to understand your colleagues. In order to succeed in this you should first seek to understand yourself, explore your own values and why you react as you do. This should be done through dialog with coworkers.
 
+##### 2.5	Type of positions at Ducky
+At Ducky there are three levels of involvment, volunteer, team-member and employee. Most people start their involvment as a volunteer. This is to mutualy explore how they thrive in such a job and how they fit into the team. In order to become a team-member or an employee one must be approved by all employees at Ducky. Team-member is equivalent to a regular emplyment in a traditional company. You are likely to experience more freedom as a team-member at Ducky than as a regular employee elsewhere. You will also have to possibility to become an employee at Ducky and take part in all matters of the organization.
+
 *** in progress ***
 
 #### 7 Organizational Structure

@@ -1,10 +1,10 @@
 # Manual for workers at Ducky
-## Revision: Februar 2016
+## Revision: February 2016
 
 > «A guide telling you what to do when no one tells you.»
 
 #### Preface:
-In order to create solutions that impact the world in a positive way, we believe we must first create a workplace that fosters goodness. Ducky shall be a workplace where you can contribute with all that you are while having fun along the way. Ducky's goals are important, men what is more important are the ideas, the creativity and the engagement of each individual working together to achieve these goals. Ducky's employee philosophy is based on the fundemental principles that people will help if given the oppurtunity and that we all have equal worth. At Ducky, the most important is not to strengthen one's ego and power, but rather to contribute as well as possible to make our collegaues the best they can possibly be and through this strengthen the organization as a whole and it's cohesion within. Ducky function as an ecosystem where the individual is open to new impulses and ideas. Through this we secure dynamic growth based on choises that feel right. In an ecosystem, some direction will fail and some will succeed. At Ducky we see these leaps of faith as a positive thing, even if the attempt may fail.
+In order to create solutions that impact the world in a positive way, we believe we must first create a workplace that fosters goodness. Ducky shall be a workplace where you can contribute with all that you are while having fun along the way. Ducky's goals are important, men what is more important are the ideas, the creativity and the engagement of each individual working together to achieve these goals. Ducky's employee philosophy is based on the fundamental principles that people will help if given the opportunity and that we all have equal worth. At Ducky, the most important is not to strengthen one's ego and power, but rather to contribute as well as possible to make our colleagues the best they can possibly be and through this strengthen the organization as a whole and it's cohesion within. Ducky function as an ecosystem where the individual is open to new impulses and ideas. Through this we secure dynamic growth based on choices that feel right. In an ecosystem, some direction will fail and some will succeed. At Ducky we see these leaps of faith as a positive thing, even if the attempt may fail.
 
 #### 1	Regarding Ducky
 
@@ -24,7 +24,7 @@ Ducky explores alternative ways to organize the daily operation of the company. 
 There are no official leaders at Ducky, and we are basically free to make decisions as long as it is in line with our aim. Learn more about how this could work in practice in Chapter 3.
 
 ##### 2.2	2nd principle - The whole human person present at work
-At Ducky we want to avoid people wearing a mask at work, for example by pretending to be competent in every situation, acting invulnerable or never making mistakes. At Ducky we never do things that contradict our inner sence of right and wrong and we are happy to share both positive and negative experiences with our colleagues. If you wish to develop as a person you have the possibility to take classes , get coaching, reflect upon yourself or through other means get to know yourself and your collegaues better. We must each decide what is important for us and at Ducky. In the case of an extensive or expensive course you should consult with your collegaues and make an argument regarding why and how the course will serve the organization and it's purpose.
+At Ducky we want to avoid people wearing a mask at work, for example by pretending to be competent in every situation, acting invulnerable or never making mistakes. At Ducky we never do things that contradict our inner sense of right and wrong and we are happy to share both positive and negative experiences with our colleagues. If you wish to develop as a person you have the possibility to take classes , get coaching, reflect upon yourself or through other means get to know yourself and your colleagues better. We must each decide what is important for us and at Ducky. In the case of an extensive or expensive course you should consult with your colleagues and make an argument regarding why and how the course will serve the organization and it's purpose.
 
 ##### 2.3	3rd principle - Codetermination
 All coworkers have an equal right and duty in deciding how Ducky shall be governed. In normal day-to-day decisions there is no demand for concensus, but in major decisions colleagues must be consulted.
@@ -32,31 +32,46 @@ Important decisions can be taken in one of two ways:
 1. In a meeting dedicated to decisions, which may be done the following way:
 a. A coworker propose a project, things they want to work on, choice of strategy, roles they wish to take on or the like.
 b. All participants as a group will then try to optimize the proposal.
-c. All participants are then given the oppurtunity to raise objections.
-d. Unless no valid arguments against the proposal in made, ie why this is not good for Ducky, the proposal can be implemnted.
+c. All participants are then given the opportunity to raise objections.
+d. Unless no valid arguments against the proposal in made, i.e. why this is not good for Ducky, the proposal can be implemented.
 2.	Inquire with experts and all affected employees.
-If we wish to implement a proposal we can inquire experts in the field it regards, as well as all emplyees that are affected by the proposal. We can then seek advice how best to implement it. If those emplyees that are affacted deems the proposal to be good it can be implemented.
+If we wish to implement a proposal we can inquire experts in the field it regards, as well as all employees that are affected by the proposal. We can then seek advice how best to implement it. If those employees that are affected deems the proposal to be good it can be implemented.
 This way of implementing decisions ensures, among other things, the following:
 * That many people are educated.
 * That coworkers feel valued and involved.
 * That good decisions since decisions are made by those that will live with the consequenses.
 * That the decision is owned by the coworkers.
 * That we have fun in the process.
-* The possibility for everyone to initiate important processes, for example if some collegaues see new oppurtunities that are according to our goals, they can pursue these. As another example, should they want to set up an office elsewhere they can do this after consulting with their colleagues. In this way we achieve dynamic growth without the need of organization by a leader.
+* The possibility for everyone to initiate important processes, for example if some colleagues see new opportunities that are according to our goals, they can pursue these. As another example, should they want to set up an office elsewhere they can do this after consulting with their colleagues. In this way we achieve dynamic growth without the need of organization by a leader.
 
 ##### 2.4	Responsibility for employees?
 
 The employees shall ensure that Ducky has financing for further product development and business development. All employees share the responsibility for running Ducky within existing financial constraints and doing this according to the values Ducky is founded on. All employees have a personal responsibility to promote social activity at work and bring his or her whole personality to the workplace. You therefore have a responsibility to share both bad and good sides of yourself and to try to understand your colleagues. In order to succeed in this you should first seek to understand yourself, explore your own values and why you react as you do. This should be done through dialog with coworkers.
 
 ##### 2.5	Type of positions at Ducky
-At Ducky there are three levels of involvment, volunteer, team-member and employee. Most people start their involvment as a volunteer. This is to mutualy explore how they thrive in such a job and how they fit into the team. In order to become a team-member or an employee one must be approved by all employees at Ducky. Team-member is equivalent to a regular emplyment in a traditional company. You are likely to experience more freedom as a team-member at Ducky than as a regular employee elsewhere. You will also have to possibility to become an employee at Ducky and take part in all matters of the organization.
+At Ducky there are three levels of involvement, volunteer, team-member and employee. Most people start their involvement as a volunteer. This is to mutualy explore how they thrive in such a job and how they fit into the team. In order to become a team-member or an employee one must be approved by all employees at Ducky. Team-member is equivalent to a regular employment in a traditional company. You are likely to experience more freedom as a team-member at Ducky than as a regular employee elsewhere. You will also have to possibility to become an employee at Ducky and take part in all matters of the organization.
+
+#### 3	How do people work at Ducky?
+
+##### 3.1	coworkers
+Ducky has a flat organizational structure. There are no leaders and you have no superior. You are free to pioneer the way forward together with your coworkers as well as explore how to best promote the purpose of the organization.
+As a coworker you have a responsibility to discover how to best apply yourself. This is a continuous process.
 
 *** in progress ***
 
+#### 6	Conflict management
+
+Ducky is exploring methods for the solutions of conflicts on an individual level.
+If one believes that a coworker is not working according to Ducky's values and their work-agreement one should address this with the coworker in question before it develops into a problem.
+One, step-by-step way of doing this is the following:
+1.  Solve the conflict individually.
+2.  Ask a intermediary in Ducky or affiliated with Ducky.
+3.  Make a panel consisting of relevant coworkers. It is important that the whole process is confidential in order to hinder rumors and misunderstandings.
+
 #### 7 Organizational Structure
 
-The way co-determination wors at Ducky today will probably work well up to a approximately 25 people sized workforce. If we become more people than this, we wil find solutions to divide into self-operating units in a natural way. This can be organized in many ways and it will have to be ensured that all units have important supporting functions like information sharing, marketing, and financing covered. Together we will make a strategy for how this should be done as a team.
-One solutions beeing considered is to base Ducky around a techonologycenter being organized in it's own way and have small units supplying services businesses, schools, organizations, etc. To ensure proper operation of the company in line with the Companies Act, there are two support functions for employees Ducky:
+The way co-determination works at Ducky today will probably work well up to a approximately 25 people sized workforce. If we become more people than this, we wil find solutions to divide into self-operating units in a natural way. This can be organized in many ways and it will have to be ensured that all units have important supporting functions like information sharing, marketing, and financing covered. Together we will make a strategy for how this should be done as a team.
+One solution that is beeing considered is to base Ducky around a center of technology being organized in it's own way and have small units supplying services businesses, schools, organizations, etc. To ensure proper operation of the company in line with the Companies Act, there are two support functions for employees Ducky:
 
 ##### 7.1 "Advisory Board"
 Will consist of 4-8 people with expertise that is useful for the Company. Advisory board has no legal force, but acts as a mentor service for the Company.
@@ -74,7 +89,7 @@ Potential tasks for a board in the future will be:
 
 Ducky is registered as an ideal corporation. That means it has rights as a corporation but statutes resembles a foundation. Important sections of the statutes follows:
 ##### § 6.0 Profits and dividends
-All profits generated by the Company is to be used to promote the development and realization of the Company's objectives and will be managed by the Company to ensure it is apllied within its approved purpose.
+All profits generated by the Company is to be used to promote the development and realization of the Company's objectives and will be managed by the Company to ensure it is applied within its approved purpose.
 Ducky's goal is not profit and as such there will be no distribution av dividends beyond the company itself.
 ##### § 7. Sale of shares
 Shares in the company have limited transferability and can not be mortgaged, sold or otherwise transferred to other than existing shareholders. Assignment sum can not be greater than the relevant shareholder original value of the stock (s) (cost price). If several shareholders wish to acquire the shares allocated these will be shared proportionately among interested parties based on their proportionate stake in the company.

@@ -9,5 +9,8 @@
             "label": "Edit This Page",
             "multilingual": false
         }
+    },
+    "styles": {
+      "website": "styles/website.css"
     }
 }

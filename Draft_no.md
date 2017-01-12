@@ -37,7 +37,7 @@
 7 [Organisasjonsstruktur](#7--organisasjonsstruktur)  
 &nbsp;&nbsp;&nbsp;7.1 [«Advisory Board»](#71---advisory-board)  
 &nbsp;&nbsp;&nbsp;7.2 [Styret og generalforsamling](#72---styret-og-generalforsamling)  
-8 [En ideel bedrift](#8--en-ideel-bedrift)  
+8 [En ideell bedrift](#8--en-ideel-bedrift)  
 
 #### Forord:
 For å skape løsninger som påvirker verden positivt må vi først lage en arbeidsplass som fostrer godhet. Ducky skal være en arbeidsplass der du kan bidra med hele ditt vesen og har det morsomt underveis. Målene til Ducky er viktige, men det viktigste er idéene, kreativiteten og engasjementet til hver enkelt som jobber for å nå disse målene. Duckys medarbeiderfilosofi bygger på et grunnleggende prinsipp om at mennesker vil bidra om de har muligheten til dette, og at vi alle har en lik verdi. Det viktigste hos Ducky er ikke å styrke eget ego og makt, men å bidra så godt vi kan til å gjøre våre kollegaer best mulig og dermed også styrke organisasjonen og samholdet. Ducky fungerer som et økosystem der enkeltindividet er åpent for nye impulser og muligheter, og dermed sikrer en dynamisk vekst for Ducky basert på valg som føles riktig. I et økosystem vil noen retninger mislykkes, mens andre vil spre seg raskt. I Ducky ansees det derfor som positivt å ta sats selv om det ofte fører til mislykkede forsøk.
@@ -69,7 +69,7 @@ Om du ønsker å utvikle seg som person, har du mulighet til å ta kurs, få coa
 Alle medarbeidere har like stor rett og plikt til å bestemme hvordan Ducky skal styres. Ved avgjørelser kreves ingen konsensus, men ved større beslutninger må kollegaer rådføres.
 Viktige beslutninger i Ducky kan tas på en av to måter:
 1.	På bestemmelsesmøter som kan gjennomføres på følende måte:
-a.	En medarbeidere kommer med forslag til prosjekt, ting de ønsker å jobbe med, strategivalg, roller man ønsker å ha eller lignende.  
+a.  En medarbeidere kommer med forslag til prosjekt, ting de ønsker å jobbe med, strategivalg, roller man ønsker å ha eller lignende.  
 b.	Alle deltakere skal da ta en runde hvor man i felleskap prøver å optimalisere forslaget.  
 c.	En runde hvor man kan komme med innsigelser.  
 d.	Om ingen kommer med gode motargumenter for hvorfor dette ikke er bra for Duckys formål kan forslaget gjennomføres.
@@ -199,7 +199,7 @@ Potensielle oppgaver for et styre i fremtiden vil kunne være:
 -	Ved interne konflikter som medarbeidere ikke greier å løse selv, eller ved brudd på denne avtalen kan styret bryte inn og i spesielle tilfeller gjennomføre tiltak slik som oppsigelser.
 -	Kan initiere støttetiltak for å lette medarbeidernes daglige drift av oppgaver om ønskelig fra medarbeidere.
 
-#### 8	En ideel bedrift
+#### 8	En ideell bedrift
 
 Ducky er registrert som et ideelt aksjeselskap. Det betyr at det har rettigheter som et aksjeselskap men vedtektene minner mest om en stiftelse. Viktige paragrafer fra vedtektene følger:
 ##### § 6.0 Overskudd og utbytte

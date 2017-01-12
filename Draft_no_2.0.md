@@ -153,16 +153,19 @@ Alle ansatte har et ansvar for å fremme det sosiale på jobb, og bør søke og 
 
 ##### 2.5 Er det nødvendig med Coaching?
 Coaching er viktig, slik at man kan få god feedback, hver person kan på denne måten lære å bli den beste versjonen av seg selv for sin location, dette vil hjelpe til å løse konflikter i fremtiden.
-Individuell coaching er sannsynligvis det viktigste
+
+> Individuell coaching er sannsynligvis det viktigste.
+
 Vi kommer til å lære at hver problem/oppgave på arbeidsplassen handler om Ducky (oss). Derfor trenger vi å lære hvordan vi skal behandle hvert eneste problem/oppgave på en arbeidsplass. Vi kan ikke bruke makt for å hjelpe andre, fordi på den måten vil du virke kontrollerende.
-We all have issues, and we will always have coaching options available.
+
+> We all have issues, and we will always have coaching options available.
 
 Også medarbeidersamtaler vil være en del av coaching så lenge samtalene betyr noe.
 
 ##### 2.6 Type stillinger i Ducky
 Mange starter sitt engasjement i Ducky som frivillig. Dette for å utforske hvordan nye mennesker trives i en slik jobb og utforske hvordan de passer inn i teamet. For å bli Team-medlem eller medarbeider må dette godkjennes av samtlige medarbeidere på kontoret.  Team-medlem vil tilsvare en vanlig ansettelse i et «tradisjonelt» selskap, men du vil sannsynligvis oppleve større frihet enn i de fleste andre jobber da dine kollegaer som er medarbeidere vil være dine overordnede. Det vil også være mulighet for å bli medarbeider i Ducky som beskrevet i figur og tekst under.
 
-
+![Jobbe i Ducky](images/modelemployment.png)
 
 #### 3. Hvordan jobber man i Ducky?
 ##### 3.1. Medarbeiderne
@@ -204,7 +207,7 @@ All informasjon skal være tilgjengelig for alle ansatte da man ikke har noen le
 ##### 3.7 Hvordan skal Ducky vokse?
 Ducky må i fremtiden ansette flere mennesker, og disse folkene vil vokse inn i flere locations innenfor Ducky.
 
-Ideelt sett er alle plassert sammen fysisk. men unntak kan bli gjort.
+> Ideelt sett er alle plassert sammen fysisk. men unntak kan bli gjort.
 
 Hver location burde gå av seg selv med egne kunder/kampanjer i fremtiden, på denne måten klarer Ducky og jobbe med flere bedrifter på en gang.
 
@@ -241,7 +244,7 @@ Hver location i Ducky har sin egen strategiske partner. Og Ducky burde alltid v�
 
 Hver location vil forbedre deres arbeid ved å dele erfaringer og tanker med andre locations.
 
-> “What values are most suitable for good work here.”
+> “What values are most suitable for good work here?”
 
 to ganger i året vil team lederen kalle inn til en samtale som betyr noe. Samtalene burde kanskje bli tilrettelagt, eller man kan bare ta tid fra medarbeidernes hverdag for å prate med de.
 
@@ -388,7 +391,7 @@ Dette er mennesker som er vant med å ha makt, og de har derfor veldig mye innfl
 Ofte kan de ha en funksjon som en “skygge”- regjering og på den måten prøve å forhandle/påvirke mer makt, dette kan bli veldig usunt.
 Markedsføring med advisory board er bare effektivt hvis de virkelig bryr seg om folkene i selskapet. så da kan det være smartere å involvere folkene i Ducky's thrust network
 
-– Men vi kan invitere forskjellige mennesker til å presentere, og ha folk som kan spørre spørsmål rundt vårt varemerke.
+- Men vi kan invitere forskjellige mennesker til å presentere, og ha folk som kan spørre spørsmål rundt vårt varemerke.
 
 ##### 8.4 vi må bygge et Trust Network istedet
 Med et Trust Network kan vi dele vårt forhold med forskjellige bedrifter i forskjellige land.
@@ -397,7 +400,7 @@ Vårt Trust Network kan foreslå potensielle kunder for oss, og vi for dem tilba
 ##### 8.5 Men husk
 Hvis vi løser et problem de trenger hjelp til, burde de betale oss.
 
-– Vi trenger ikke haste inn i noe partnerskap. Føles det litt rart, er det sikkert det!
+- Vi trenger ikke haste inn i noe partnerskap. Føles det litt rart, er det sikkert det!
 
 > “Keep thrust network as something personal, don't show that to anyone”
 
@@ -407,10 +410,10 @@ Styret og generalforsamling vil fungere som samme enhet og består i dag kun av 
 Når selskapet får flere avdelinger eller at medarbeiderne ser det hensiktsmessig med et mer aktivt styre vil dette nedsettes etter valg blant medarbeidere.
 
 Potensielle oppgaver for et styre i fremtiden vil kunne være:
-Sette overordnede rammer for drift
-Sikre en økonomisk forsvarlig drift. Foreslåtte rammer for budsjett, arbeidstid, antall ansatte, lønnsrammer og store strategiske beslutninger skal godkjennes av styret hvert år.
-Ved interne konflikter som medarbeidere ikke greier å løse selv, eller ved brudd på denne avtalen kan styret bryte inn og i spesielle tilfeller gjennomføre tiltak slik som oppsigelser.
-Kan initiere støttetiltak for å lette medarbeidernes daglige drift av oppgaver om ønskelig fra medarbeidere.
+  * Sette overordnede rammer for drift
+  * Sikre en økonomisk forsvarlig drift. Foreslåtte rammer for budsjett, arbeidstid, antall ansatte, lønnsrammer og store strategiske beslutninger skal godkjennes av styret hvert år.
+  * Ved interne konflikter som medarbeidere ikke greier å løse selv, eller ved brudd på denne avtalen kan styret bryte inn og i spesielle tilfeller gjennomføre tiltak slik som oppsigelser.
+  * Kan initiere støttetiltak for å lette medarbeidernes daglige drift av oppgaver om ønskelig fra medarbeidere.
 
 #### 9. En ideel bedrift
 Ducky er registrert som et ideelt aksjeselskap. Det betyr at det har rettigheter som et aksjeselskap men vedtektene minner mest om en stiftelse. Viktige paragrafer fra vedtektene følger:
@@ -426,7 +429,8 @@ I tilfelle oppløsning a selskapet, tilfaller selskapets midler formål som besk
 
 #### 10. Om å utforske muligheter landskapet
 ##### 10.1 Hva skjer her?
-“Aktiviteter er strategi i natur”
+
+> “Aktiviteter er strategi i natur”
 
 Ducky vil også trenge et utvikler- thrust network på det strategisk nivå. Ducky må finne ut hvordan man skal flytte disse behovene til prosjekt. Ducky trenger også langtids tanker når det kommer til perspektiv/orientering i strategi.
 
@@ -435,10 +439,10 @@ Strategiske tiltak kommer til å oppstå hele tiden spesielt i de områdene hvor
 ##### 10.2 Effektiv jobbing
 for å ha en mest mulig effektiv kommunikasjon mellom locations vil Ducky etter hvert trenge Newsletters, Slack, intranett og Open Source stuff osv.
 
-  * Hvordan ser bra jobbing ut her?
-  * Research basert på innhold.
-  * Bidra til at klimadata blir integrert inn til kundenes liv ved å gjøre det en del av hverdagslivet deres.
-  * Teamwork
-  * Å gjøre det bedre enn resten av verden forventer.
-  * Enkel datastruktur gjør vanskelig data enklere å forstå og jobbe med.
-  * Prioriter arbeidsoppgaver basert på hva som haster mest. (ikke bare for kunder, men også for de gode ideene og på hva som gir mest mulig positiv energi).
+Hvordan ser bra jobbing ut her?
+  1. Research basert på innhold.
+  2. Bidra til at klimadata blir integrert inn til kundenes liv ved å gjøre det en del av hverdagslivet deres.
+  3. Teamwork
+  4. Å gjøre det bedre enn resten av verden forventer.
+  5. Enkel datastruktur gjør vanskelig data enklere å forstå og jobbe med.
+  6. Prioriter arbeidsoppgaver basert på hva som haster mest. (ikke bare for kunder, men også for de gode ideene og på hva som gir mest mulig positiv energi).

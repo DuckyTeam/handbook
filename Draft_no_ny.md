@@ -326,10 +326,10 @@ Hos Ducky er vi like mye verdt og ingen har krav på mer lønn enn andre. Mange 
 
 I Ducky kan du snart sette din egen lønn innenfor gitte rammer. Du kan velge din lønn ut i fra noen lønnstrinn, der du må diskutere ditt valg med flere av dine kollegaer. Bakgrunnen for valg bør være dine økonomiske behov, Duckys økonomi og ditt bidrag til Ducky.
 
-Mulige lønnstrinn: 
-Lønnstrinn 1: 350.000,- 
-Lønnstrinn 2: 425.000,- 
-Lønnstrinn 3: 475.000,- 
+Mulige lønnstrinn:
+Lønnstrinn 1: 350.000,-
+Lønnstrinn 2: 425.000,-
+Lønnstrinn 3: 475.000,-
 Lønnstrinn 4: 525.000,-
 
 ##### 7.5 Utsatt utbetaling og risikotillegg

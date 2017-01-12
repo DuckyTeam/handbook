@@ -80,7 +80,8 @@ målene.
 
 Duckys medarbeiderfilosofi bygger på det grunnleggende prinsippet om at mennesker vil bidra om de har muligheten til det, og at vi alle har en lik verdi. Det viktigste hos Ducky er ikke å styrke eget ego og makt, men å bidra så godt vi kan til å gjøre våre kollegaer best mulig og dermed også styrke organisasjonen og samholdet. Ducky fungerer som et økosystem der enkeltindividet er åpent for nye impulser og muligheter, og dermed sikrer en dynamisk vekst for Ducky basert på valg som føles riktig. I et økosystem vil noen retninger mislykkes, mens andre vil spre seg raskt. I Ducky ansees det derfor som positivt å ta sats selv om det ofte kan føre til mislykkede forsøk.
 
-#### DUCKYS Oppdrag: “Vi ser inn i fremtiden og vi ser en verden hvor alle bryr seg, og gjør det de kan for miljøet rundt seg.”
+#### DUCKYS Oppdrag:
+“Vi ser inn i fremtiden og vi ser en verden hvor alle bryr seg, og gjør det de kan for miljøet rundt seg.”
 #### DUCKYS Visjon:
 #### DUCKYS Verdier:
 (Burde bli bestemt i fellesskap med alle medarbeiderne)

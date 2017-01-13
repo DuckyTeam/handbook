@@ -166,7 +166,7 @@ Også medarbeidersamtaler vil være en del av coaching så lenge samtalene betyr
 ##### 2.6 Type stillinger i Ducky
 Mange starter sitt engasjement i Ducky som frivillig. Dette for å utforske hvordan nye mennesker trives i en slik jobb og utforske hvordan de passer inn i teamet. For å bli Team-medlem eller medarbeider må dette godkjennes av samtlige medarbeidere på kontoret.  Team-medlem vil tilsvare en vanlig ansettelse i et «tradisjonelt» selskap, men du vil sannsynligvis oppleve større frihet enn i de fleste andre jobber da dine kollegaer som er medarbeidere vil være dine overordnede. Det vil også være mulighet for å bli medarbeider i Ducky som beskrevet i figur og tekst under.
 
-![Jobbe i Ducky](images/modelemployment.png)
+![Jobbe i Ducky](images/modelemployment.svg)
 
 #### 3. Hvordan jobber man i Ducky?
 ##### 3.1. Medarbeiderne
